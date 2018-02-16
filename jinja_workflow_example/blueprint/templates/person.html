@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block body%}
+<h1>{{ person['name'] }}</h1>
+
+<h2>Picture</h2>
+<img src={{ person['profile_picture'] }}></img>
+
+<h2>Posts</h2>
+<ul>
+    {% for x in person['posts'] %}
+    <li>{{ x }}</li>
+    {% endfor %}
+</ul>
+
+<h2>Friends</h2>
+<ul>
+    {% for x in person['friends'] %}
+    <li>{{ x }}</li>
+    {% endfor %}
+</ul>
+{% endblock %}
