@@ -32,6 +32,14 @@ or
 
 However else you want to run a flask debug server or containerized webserver
 
+# First Steps
+
+- Skim [the relevant portions of the jinja docs](http://jinja.pocoo.org/docs/2.10/templates/) 
+- Take a look at ```./jinja_workflow_example/blueprint/__init__``` to see how routes are defined, and how variables get passed to templates 
+- Take a look in the ```./jinja_workflow_example/blueprint/templates/``` folder and try playing around with the templates to change the appearance of pages.
+- Hypothesize what other information would be nice to have fed into the templates, and what the requirements of different routes/pages/templates might be.
+- Have a look at the template hierarchy itself, to see if it would benefit from more abstraction or more granularity.
+
 
 # Author
 Brian Balsamo <brian@brianbalsamo.com>
