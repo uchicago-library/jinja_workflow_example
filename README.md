@@ -17,6 +17,17 @@ Unfortunately, despite it being packed with engaging content, the web UI is (alm
 I have created a barebones web UI for displaying this data, and will happily provide new routes, or alter existing routes, in order to work together
 to create a interface through which to present this information.
 
+# Installation
+
+```
+$ git clone https://github.com/bnbalsamo/jinja_workflow_example.git
+$ cd jinja_workflow_example
+$ python3 -m venv venv
+$ source venv/bin/active
+$ pip install -r requirements.txt
+$ python setup.py develop
+```
+
 # To spin up a Dev Environment
 
 ```$ ./debug.sh```
