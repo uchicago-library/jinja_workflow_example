@@ -17,6 +17,21 @@ Unfortunately, despite it being packed with engaging content, the web UI is (alm
 I have created a barebones web UI for displaying this data, and will happily provide new routes, or alter existing routes, in order to work together
 to create a interface through which to present this information.
 
+# To spin up a Dev Environment
+
+```$ ./debug.sh```
+
+or
+
+```
+$ docker build . -t jinja_experiment
+$ docker run -p 5000:80 jinja_experiment
+```
+
+or
+
+However else you want to run a flask debug server or containerized webserver
+
 
 # Author
 Brian Balsamo <brian@brianbalsamo.com>
