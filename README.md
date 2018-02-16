@@ -43,6 +43,8 @@ or
 
 However else you want to run a flask debug server or containerized webserver
 
+After doing that, pointing a browser at http://localhost:5000 should display a web page, and http://localhost:5000/p/0 should show a profile
+
 # First Steps
 
 - Skim [the relevant portions of the jinja docs](http://jinja.pocoo.org/docs/2.10/templates/) 
