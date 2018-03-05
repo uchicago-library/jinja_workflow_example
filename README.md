@@ -1,6 +1,6 @@
-# jinja_workflow_example [![v0.0.1](https://img.shields.io/badge/version-0.0.1-blue.svg)](https://github.com/bnbalsamo/jinja_workflow_example/releases)
+# jinja_workflow_example [![v0.0.1](https://img.shields.io/badge/version-0.0.1-blue.svg)](https://github.com/uchicago-library/jinja_workflow_example/releases)
 
-[![Build Status](https://travis-ci.org/bnbalsamo/jinja_workflow_example.svg?branch=master)](https://travis-ci.org/bnbalsamo/jinja_workflow_example) [![Coverage Status](https://coveralls.io/repos/github/bnbalsamo/jinja_workflow_example/badge.svg?branch=master)](https://coveralls.io/github/bnbalsamo/jinja_workflow_example?branch=master)
+[![Build Status](https://travis-ci.org/bnbalsamo/jinja_workflow_example.svg?branch=master)](https://travis-ci.org/uchicago-library/jinja_workflow_example) [![Coverage Status](https://coveralls.io/repos/github/uchicago-library/jinja_workflow_example/badge.svg?branch=master)](https://coveralls.io/github/uchicago-library/jinja_workflow_example?branch=master)
 
 A repository for testing jinja facilitated workflows with a dedicated front end team
 
