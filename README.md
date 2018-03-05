@@ -55,4 +55,4 @@ After doing that, pointing a browser at http://localhost:5000 should display a w
 
 
 # Author
-Brian Balsamo <brian@brianbalsamo.com>
+Brian Balsamo <brian@brianbalsamo.com>, 2018-02
